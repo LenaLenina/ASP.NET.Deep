@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyHyperLink", "MyHyperLink\MyHyperLink.csproj", "{397645C1-D2DF-472F-A9DB-833BE2FCA3AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlLibrary", "ControlLibrary\ControlLibrary.csproj", "{B427C410-1E2C-4F2D-8699-57814A1BCAB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{397645C1-D2DF-472F-A9DB-833BE2FCA3AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{397645C1-D2DF-472F-A9DB-833BE2FCA3AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{397645C1-D2DF-472F-A9DB-833BE2FCA3AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{397645C1-D2DF-472F-A9DB-833BE2FCA3AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B427C410-1E2C-4F2D-8699-57814A1BCAB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B427C410-1E2C-4F2D-8699-57814A1BCAB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B427C410-1E2C-4F2D-8699-57814A1BCAB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B427C410-1E2C-4F2D-8699-57814A1BCAB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

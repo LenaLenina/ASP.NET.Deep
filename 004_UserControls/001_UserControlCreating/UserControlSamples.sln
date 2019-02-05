@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_UserControlCreating", "UserControlSamples\01_UserControlCreating.csproj", "{B05807BF-3849-4787-8125-F279CA4C77E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_UserControlCreating", "02_UserControlCreating\02_UserControlCreating.csproj", "{FEBF40F1-DD3A-4066-A9CA-C7FD4609B741}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B05807BF-3849-4787-8125-F279CA4C77E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B05807BF-3849-4787-8125-F279CA4C77E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B05807BF-3849-4787-8125-F279CA4C77E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B05807BF-3849-4787-8125-F279CA4C77E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEBF40F1-DD3A-4066-A9CA-C7FD4609B741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEBF40F1-DD3A-4066-A9CA-C7FD4609B741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEBF40F1-DD3A-4066-A9CA-C7FD4609B741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEBF40F1-DD3A-4066-A9CA-C7FD4609B741}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

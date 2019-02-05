@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyButton", "MyButton\MyButton.csproj", "{510FFE8D-F493-40A6-A37A-A41622CB391B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlLibrary", "ControlLibrary\ControlLibrary.csproj", "{5D7EBACA-7C25-4E62-A40A-233746734AFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{510FFE8D-F493-40A6-A37A-A41622CB391B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{510FFE8D-F493-40A6-A37A-A41622CB391B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{510FFE8D-F493-40A6-A37A-A41622CB391B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{510FFE8D-F493-40A6-A37A-A41622CB391B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D7EBACA-7C25-4E62-A40A-233746734AFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D7EBACA-7C25-4E62-A40A-233746734AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D7EBACA-7C25-4E62-A40A-233746734AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D7EBACA-7C25-4E62-A40A-233746734AFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_AggregateDependency", "AggregateDependency\1_AggregateDependency.csproj", "{53C1A7BB-7BEA-485C-A8E4-256463205B94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_CustomDependancy", "CustomDependancy\3_CustomDependancy.csproj", "{4C72A897-8F4D-4B51-87D9-AFAB5D25B380}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_SqlDataSourceCaching", "SqlDataSourceCaching\2_SqlDataSourceCaching.csproj", "{AA7C64B3-8DE4-4B64-9830-999DB4271AFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53C1A7BB-7BEA-485C-A8E4-256463205B94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53C1A7BB-7BEA-485C-A8E4-256463205B94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53C1A7BB-7BEA-485C-A8E4-256463205B94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53C1A7BB-7BEA-485C-A8E4-256463205B94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C72A897-8F4D-4B51-87D9-AFAB5D25B380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C72A897-8F4D-4B51-87D9-AFAB5D25B380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C72A897-8F4D-4B51-87D9-AFAB5D25B380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C72A897-8F4D-4B51-87D9-AFAB5D25B380}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA7C64B3-8DE4-4B64-9830-999DB4271AFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA7C64B3-8DE4-4B64-9830-999DB4271AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA7C64B3-8DE4-4B64-9830-999DB4271AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA7C64B3-8DE4-4B64-9830-999DB4271AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

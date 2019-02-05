@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormsAuthenticationSample", "FormsAuthenticationSample\FormsAuthenticationSample.csproj", "{AFDE5D87-7C1A-4676-82C6-482F6AB49684}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormsAuthenticationSample2", "FormsAuthenticationSample2\FormsAuthenticationSample2.csproj", "{DE1C4279-6485-45A3-B107-CFA6C6256463}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFDE5D87-7C1A-4676-82C6-482F6AB49684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFDE5D87-7C1A-4676-82C6-482F6AB49684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFDE5D87-7C1A-4676-82C6-482F6AB49684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFDE5D87-7C1A-4676-82C6-482F6AB49684}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE1C4279-6485-45A3-B107-CFA6C6256463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE1C4279-6485-45A3-B107-CFA6C6256463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE1C4279-6485-45A3-B107-CFA6C6256463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE1C4279-6485-45A3-B107-CFA6C6256463}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

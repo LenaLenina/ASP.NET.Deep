@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_TaskInASP", "TaskInASP\002_TaskInASP.csproj", "{57C05811-9D11-4B77-96F8-8A37DD670361}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_TaskInASP", "001_TaskInASP\001_TaskInASP.csproj", "{FC080260-9325-4692-A948-17533454ACC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57C05811-9D11-4B77-96F8-8A37DD670361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57C05811-9D11-4B77-96F8-8A37DD670361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57C05811-9D11-4B77-96F8-8A37DD670361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57C05811-9D11-4B77-96F8-8A37DD670361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC080260-9325-4692-A948-17533454ACC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC080260-9325-4692-A948-17533454ACC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC080260-9325-4692-A948-17533454ACC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC080260-9325-4692-A948-17533454ACC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
